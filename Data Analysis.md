@@ -30,6 +30,12 @@
 <b>ANALYSIS OUTPUT AND CALCULATIONS</b>
 <h3></h3>
 
+![Drug Line Values](https://github.com/LashawnFofung/Drug-Market-Analysis/blob/main/Drug%20Line%20Values.png)
+
+<h3></h3>
+
+![Drug Line Values]
+
 <h3>Outcome</h3>
 
 The analysis strongly recommends that MPC prioritize the modification of its existing drug line, as it yielded the highest expected financial value of $3,870.02.  This project provides a clear, data-backed strategic direction for MPC to navigate competitive market conditions and maximize potential returns.
