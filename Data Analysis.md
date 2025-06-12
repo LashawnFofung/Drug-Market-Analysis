@@ -34,7 +34,9 @@
 
 <h3></h3>
 
-![Drug Line Values]
+![Expected Value Calculations](https://github.com/LashawnFofung/Drug-Market-Analysis/blob/main/Expected%20Value%20Calculations.png)
+
+<h3></h3>
 
 <h3>Outcome</h3>
 
