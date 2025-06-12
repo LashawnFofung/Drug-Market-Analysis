@@ -17,6 +17,6 @@ This dataset was provided by **Western Governors University (WGU)** for academic
 * **Dataset:** `Drug Market Analysis.xlsm`
 * **Format:** Microsoft Excel Workbook (.xlsx)
 * **Size:** 32KB
-* **Number of Sheets:** 4 sheets
-* **Key Columns/Variables:** 
+* **Number of Sheets:** 4 sheets: Drug Line Values, Expected Earned Value, Decision Tree Analysis
+* **Key Columns/Variables:** Profit (per unit), Favorable Demand (units/month), Favorable Probability, Favorable Payoffs, Favorable Expected Value, Unfavorable Demand (units/month), Unfavorable Probability, Unfavorable Payoffs, Unfavorable Expected Value, Final Expected Value
 
