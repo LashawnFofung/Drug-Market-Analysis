@@ -14,9 +14,9 @@ This dataset was provided by **Western Governors University (WGU)** for academic
 
 # Dataset Overview
 
-* **Dataset:** 
-* **Format:** 
-* **Size:** 
-* **Number of Sheets:** 
+* **Dataset:** Drug Market Analysis.xlsm
+* **Format:** Microsoft Excel Workbook (.xlsx)
+* **Size:** 32KB
+* **Number of Sheets:** 4 sheets
 * **Key Columns/Variables:** 
 
