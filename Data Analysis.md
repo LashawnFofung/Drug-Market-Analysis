@@ -16,6 +16,14 @@
   - <b>Limitations Assessment:</b> Discusses the limitations of the analysis, including assumptions made regarding unfavorable market demand for certain strategies and the inherent simplification of real-world complexities by the decision tree model.
   - <b>Strategic Recommendation:</b> Provides a primary and backup course of action based on the calculated expected values, recommending the modification of the existing drug line as the optimal strategy.
 
+<h3>Tools & Techniques</h3>
+
+  - Decision Tree Analysis
+  - Expected Value Calculation
+  - Strategic Decision Making under Uncertainty
+  - Financial Modeling
+
+
 <h3>REPORTING</h3>
 
 <h3></h3>
