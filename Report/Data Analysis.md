@@ -41,7 +41,7 @@ This report details a decision tree analysis to determine the optimal drug line 
 
 <h3></h3>
 
-![Drug Market Analysis Decision Tree](https://github.com/LashawnFofung/Drug-Market-Analysis/blob/main/Drug%20Market%20Analysis%20Decision%20Tree.png)
+![Drug Market Analysis Decision Tree](https://github.com/LashawnFofung/Drug-Market-Analysis/blob/main/Results/Drug%20Market%20Analysis%20Decision%20Tree.png)
 
 <h3></h3>
 
