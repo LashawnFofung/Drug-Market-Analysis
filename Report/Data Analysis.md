@@ -33,7 +33,7 @@ This report details a decision tree analysis to determine the optimal drug line 
 <b>ANALYSIS OUTPUT AND CALCULATIONS</b>
 <h3></h3>
 
-![Drug Line Values](https://github.com/LashawnFofung/Drug-Market-Analysis/blob/main/Drug%20Line%20Values.png)
+![Drug Line Values](https://github.com/LashawnFofung/Drug-Market-Analysis/blob/main/Results/Drug%20Line%20Values.png)
 
 <h3></h3>
 
