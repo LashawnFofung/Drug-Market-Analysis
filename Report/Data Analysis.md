@@ -37,7 +37,7 @@ This report details a decision tree analysis to determine the optimal drug line 
 
 <h3></h3>
 
-![Expected Value Calculations](https://github.com/LashawnFofung/Drug-Market-Analysis/blob/main/Expected%20Value%20Calculations.png)
+![Expected Value Calculations](https://github.com/LashawnFofung/Drug-Market-Analysis/blob/main/Results/Expected%20Value%20Calculations.png)
 
 <h3></h3>
 
